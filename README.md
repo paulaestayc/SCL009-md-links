@@ -351,6 +351,7 @@ si tienes dudas existenciales con respecto a estas decisiones. No existe una
 
 ### `README.md`
 
+- [ ] Pseudo codigo o diagrama de flujo con el algoritmo que soluciona el problema.
 - [ ] Un board con el backlog para la implementación de la librería.
 - [ ] Documentación técnica de la librería.
 - [ ] Guía de uso e instalación de la librería
@@ -368,6 +369,7 @@ si tienes dudas existenciales con respecto a estas decisiones. No existe una
 - [ ] Se ejecuta sin errores / output esperado
 - [ ] Implementa `--validate`
 - [ ] Implementa `--stats`
+- [ ] El ejecutable implementa `--validate` y `--stats` juntos.
 
 ### Pruebas / tests
 
