@@ -212,8 +212,8 @@ Broken: 1
 ```
 
 ## Entregables
-
-Módulo instalable via `npm install <github-user>/md-links`. Este módulo debe
+- Pseudo codigo o diagrama de flujo con el algoritmo que soluciona el problema.
+- Módulo instalable via `npm install <github-user>/md-links`. Este módulo debe
 incluir tanto un ejecutable como una interfaz que podamos importar con `require`
 para usarlo programáticamente.
 
